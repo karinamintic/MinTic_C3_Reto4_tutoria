@@ -59,5 +59,5 @@ public class Categoria implements Serializable
 
     public void setFarms(List<Finca> farms) {
         this.farms = farms;
-    }  
+    }
 }

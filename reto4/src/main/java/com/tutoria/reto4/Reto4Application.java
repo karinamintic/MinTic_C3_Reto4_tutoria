@@ -4,6 +4,8 @@
 //4. Web - Controlador
 //5. Servicios
 
+////Categoria, Finca, Cliente, Mensaje y Reservacion
+
 
 
 package com.tutoria.reto4;
